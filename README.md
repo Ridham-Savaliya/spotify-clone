@@ -1,1 +1,3 @@
 # spotify-clone
+
+This is a Spotify clone app which can play your favourite albums songs and also offers the client side super easy mechanism to publish new albums from client side....
